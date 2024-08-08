@@ -1,4 +1,4 @@
-Python
+Python - Edgar Hernandez
 
 30% trabajo con python --> medianamente bien 4.5 - quedar bien
 
@@ -30,3 +30,20 @@ x=[0,1,2,3,4,5,6,7,8,9] - X viene siendo el arreglo, lo que esta dentro de [] es
 np_x= np.array(x)
 
 cuando python convierte en un arreglo, todo vuela, ya que es mas rapido para vectorizar
+
+------------------------------------------------
+objetos
+comando go to. utilizado anteriormente para programar linealmente, go back igual
+programacion orientada a objetos
+modularizar un codigo: 
+Un código Modularizado permite realizar o introducir cambios de forma más sencilla pues cada bloque o archivo se encargará de una tarea especifica. Permitiendo que sea escalable, optimizado y reutilizable para diferentes partes de la aplicación.
+
+los objetos que se van a manejar:
+int - num enteros
+float - num decimales
+strings - cadenas de caracteres
+boolenas - true - false
+lits - se usa para listar objetos
+arrays - arreglos numpy
+
+
