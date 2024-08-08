@@ -1,0 +1,32 @@
+Python
+
+30% trabajo con python --> medianamente bien 4.5 - quedar bien
+
+Taller en python
+se realizará en google colabs - google->colabs->notebook->desde allí se programa en python
+ese notebook ya trae consigo todo sobre python
+
+Youtube - tutorial de como poner bonito el notebook de colab {
+    titulos, subtitulos, texto, imagenes
+
+    una libreria o paquetes conjunto de funciones, son programas que son reutilizables, que se pueden
+    llamar para algo especifico que se requiera
+
+    ejemplo hipotetico: calcular el area de un circulo, llamo la funcion de la libreria correspondiente.
+}
+
+utilizaremos tres paquetes{
+    import matplotlib.pyplot as plt -- solo estoy trayendo a pyplot, con el punto recuerde
+    que se trae algo en especifico -- en este caso pyplot lo traemos para graficar
+    
+    import numpy as np -- lo importamos para trabajar arreglos: vectores
+
+    import pandas as pd -- se utiliza para trabajar datos: tablas
+}
+
+trabajaremos vectores para crear graficas
+creamos un arreglo con un listado
+x=[0,1,2,3,4,5,6,7,8,9] - X viene siendo el arreglo, lo que esta dentro de [] es la lista
+np_x= np.array(x)
+
+cuando python convierte en un arreglo, todo vuela, ya que es mas rapido para vectorizar
